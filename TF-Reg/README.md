@@ -1,7 +1,5 @@
 # Teacher-free-Knowledge-Distillation
 
-
-### 1.1 Environment
 Build a new environment and install:
 ```
 pip install -r requirements.txt
